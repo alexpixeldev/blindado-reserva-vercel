@@ -1,0 +1,13 @@
+{
+  "name": "locacao",
+  "version": "1.0.0",
+  "description": "Ficha de Controle de Locação",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Build complete'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
